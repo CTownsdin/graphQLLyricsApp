@@ -1,2 +1,2 @@
-# graphQLLyricsApp
-front end focused graphQL demo application, (StephenGrider's training udemy.com)
+# Lyrical-GraphQL
+Starter project from a GraphQL course on Udemy.com
